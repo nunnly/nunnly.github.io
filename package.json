@@ -1,0 +1,45 @@
+{
+  "name": "bosn",
+  "version": "0.0.5",
+  "description": "bosn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nunn",
+    "bosn"
+  ],
+  "author": {
+    "name": "nunn"
+  },
+  "license": "ISC",
+  "_id": "bosn@0.0.2",
+  "_shasum": "af6307123964aef8e7ee0cc8768a1da15eab050b",
+  "_from": "bosn@*",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "nunn",
+    "email": "whktk@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "nunn",
+      "email": "whktk@qq.com"
+    }
+  ],
+  "dist": {
+    "shasum": "af6307123964aef8e7ee0cc8768a1da15eab050b",
+    "size": 357,
+    "noattachment": false,
+    "tarball": "http://r.cnpmjs.org/bosn/download/bosn-0.0.2.tgz"
+  },
+  "directories": {},
+  "publish_time": 1408443414421,
+  "_cnpm_publish_time": 1408443414421,
+  "_resolved": "http://r.cnpmjs.org/bosn/download/bosn-0.0.2.tgz",
+  "dependencies": {
+    "jade": "^1.9.2",
+    "markdown": "^0.5.0"
+  }
+}
