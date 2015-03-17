@@ -1,0 +1,45 @@
+html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100% }
+
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin: 0; padding: 0 }
+
+ul, ol { list-style: none }
+
+s { text-decoration: none }
+
+img { border: 0; vertical-align: top; -ms-interpolation-mode: bicubic; max-width:100%;height:auto; }
+
+table { border-collapse: collapse; border-spacing: 0 }
+
+button, input, select, textarea { vertical-align: baseline; *vertical-align: middle }
+
+input[type="reset"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, input[type="submit"]::-moz-focus-inner, input[type="file"] > input[type="button"]::-moz-focus-inner { border: none; padding: 0; }
+
+a:focus { outline: thin dotted }
+
+a:active, a:hover { outline: 0 }
+
+body { background-color: #fff; _background-image: url(about:blank); _background-attachment: fixed; -webkit-text-size-adjust: none; }
+
+.clear { display: block; overflow: hidden; clear: both; height: 0; line-height: 0; font-size: 0; }
+
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+
+.clearfix { display: inline-table; }
+
+* html.clearfix { height: 1%; }
+
+.clearfix { display: block; }
+
+* + html.clearfix { min-height: 1%; }
+
+.mt10 { margin-top: 10px; }
+
+.noBg { background: none !important }
+
+body { font: 12px/1.5 \5b8b\4f53, Arial, "microsoft yahei"; color: #666; }
+
+a { color: #666; text-decoration: none }
+
+a:hover { color: #0053b7; text-decoration: underline }
+
+em { font-style: normal; }

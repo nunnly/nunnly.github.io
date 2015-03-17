@@ -1,5 +1,10 @@
 var app = require('./lib/method');
 var jade = require('jade');
+var fs = require('fs');
+var fn = jade.compileFile('./view/index.jade',{});
+var ind = fn({});
+console.log(ind);
+fs.writeFile('index.html',ind);
 app();
 
 //var fs = require('fs');
